@@ -1,3 +1,12 @@
 [submodule "nodejs"]
 	path = nodejs
 	url = https://github.com/ipipdotnet/datx-nodejs
+[submodule "php"]
+	path = php
+	url = https://github.com/ipipdotnet/datx-php
+[submodule "python"]
+	path = python
+	url = https://github.com/ipipdotnet/datx-python
+[submodule "java"]
+	path = java
+	url = https://github.com/ipipdotnet/datx-java
