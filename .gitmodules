@@ -13,3 +13,6 @@
 [submodule "golang"]
 	path = golang
 	url = https://github.com/ipipdotnet/datx-go
+[submodule "lua"]
+	path = lua
+	url = https://github.com/ipipdotnet/datx-lua
